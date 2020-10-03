@@ -59,4 +59,5 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 =======
 # e-menu-coffee-shop
 program menu elektronik dari usaha coffee shop
+Aplikasi dapat di demo di anakesia.com/admin dengan user dan password admin
 >>>>>>> 3d69e9305da37b7e72f6dbb46c8f87f93888982c
